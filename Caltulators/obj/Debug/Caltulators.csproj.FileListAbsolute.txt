@@ -1,0 +1,30 @@
+P:\Projects\Caltulators\Caltulators\bin\Debug\Caltulators.exe.config
+P:\Projects\Caltulators\Caltulators\bin\Debug\Caltulators.exe
+P:\Projects\Caltulators\Caltulators\bin\Debug\Caltulators.pdb
+P:\Projects\Caltulators\Caltulators\obj\Debug\Caltulators.csprojAssemblyReference.cache
+P:\Projects\Caltulators\Caltulators\obj\Debug\Caltulators.Properties.Resources.resources
+P:\Projects\Caltulators\Caltulators\obj\Debug\Caltulators.csproj.GenerateResource.cache
+P:\Projects\Caltulators\Caltulators\obj\Debug\Caltulators.csproj.CoreCompileInputs.cache
+P:\Projects\Caltulators\Caltulators\obj\Debug\Caltulators.exe
+P:\Projects\Caltulators\Caltulators\obj\Debug\Caltulators.pdb
+P:\Projects\Caltulators\Caltulators\obj\Debug\Caltulators.Caltulator.resources
+P:\my Programming\Projects\Caltulators\Caltulators\bin\Debug\Caltulators.exe.config
+P:\my Programming\Projects\Caltulators\Caltulators\bin\Debug\Caltulators.exe
+P:\my Programming\Projects\Caltulators\Caltulators\bin\Debug\Caltulators.pdb
+P:\my Programming\Projects\Caltulators\Caltulators\obj\Debug\Caltulators.csprojAssemblyReference.cache
+P:\my Programming\Projects\Caltulators\Caltulators\obj\Debug\Caltulators.Caltulator.resources
+P:\my Programming\Projects\Caltulators\Caltulators\obj\Debug\Caltulators.Properties.Resources.resources
+P:\my Programming\Projects\Caltulators\Caltulators\obj\Debug\Caltulators.csproj.GenerateResource.cache
+P:\my Programming\Projects\Caltulators\Caltulators\obj\Debug\Caltulators.csproj.CoreCompileInputs.cache
+P:\my Programming\Projects\Caltulators\Caltulators\obj\Debug\Caltulators.exe
+P:\my Programming\Projects\Caltulators\Caltulators\obj\Debug\Caltulators.pdb
+P:\Test\Caltulators\Caltulators\bin\Debug\Caltulators.exe.config
+P:\Test\Caltulators\Caltulators\bin\Debug\Caltulators.exe
+P:\Test\Caltulators\Caltulators\bin\Debug\Caltulators.pdb
+P:\Test\Caltulators\Caltulators\obj\Debug\Caltulators.csprojAssemblyReference.cache
+P:\Test\Caltulators\Caltulators\obj\Debug\Caltulators.Caltulator.resources
+P:\Test\Caltulators\Caltulators\obj\Debug\Caltulators.Properties.Resources.resources
+P:\Test\Caltulators\Caltulators\obj\Debug\Caltulators.csproj.GenerateResource.cache
+P:\Test\Caltulators\Caltulators\obj\Debug\Caltulators.csproj.CoreCompileInputs.cache
+P:\Test\Caltulators\Caltulators\obj\Debug\Caltulators.exe
+P:\Test\Caltulators\Caltulators\obj\Debug\Caltulators.pdb
